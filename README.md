@@ -1,4 +1,4 @@
-*Favour-Personal Portfolio*
+## Favour-Personal Portfolio
 
 A personal portfolio website showcasing my skills, experience, and projects.
 
@@ -36,5 +36,3 @@ To customize the website, you can modify the HTML, CSS, and JavaScript files. Yo
 *Deployment*
 
 To deploy the website, you can upload the files to a web server or use a website builder platform.
-
-I hope this helps! Let me know if you have any questions or need further assistance.
